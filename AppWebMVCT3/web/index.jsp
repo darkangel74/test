@@ -1,0 +1,1 @@
+<jsp:forward page="/controller?action=home"/>
